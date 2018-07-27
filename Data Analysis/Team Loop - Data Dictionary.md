@@ -1,15 +1,9 @@
 # Data Dictionary
 
-In selecting which datasets to use in the short amount of time available, we prioritized datasets which could give us the most information regarding our two outcome variables of interest (`number of collisions` and `KSI risk`) with the least amount of pre-processing and cleaning. 
-
-The predicted `number of collisions` in a given neighbourhood or street is a regression problem, while the predicted `KSI risk` as defined as the probability of a collision leading to either a death or major injury (aka Killed or Seriously Injured) is a classification problem. 
-
-Both approaches were used due to the nature of the Vision Zero Challenge - successful cities that have adopted Vision Zero like New York City prioritize high KSI zones, but there is a highly significant relationship between  
+In selecting which datasets to use in the short amount of time available, we prioritized datasets which could give us the most information regarding our two outcome variables of interest (`number of collisions` and `KSI risk`) with the least amount of pre-processing and cleaning.    
 
 **Number of Datasets Used:** 12
 **Number of Datasets Created:** 3
-**Number of Unique Attributes:**  
-
 
 The original source datasets are linked for reference. All work completed by [Jason U. Kim](mailto:hello@jasonukim.com).
 
