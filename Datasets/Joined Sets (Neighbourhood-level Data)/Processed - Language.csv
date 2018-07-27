@@ -1,0 +1,141 @@
+"HOOD ID","HOOD NAME","MOST SPOKEN NON-OFFICIAL LANG","2ND MOST SPOKEN NON-OFFICIAL LANG","3RD MOST SPOKEN NON-OFFICIAL LANG","% OFFICIAL LANG AT HOME","% NON-OFFICIAL LANG AT HOME"
+1,"West Humber-Clairville","Punjabi","Gujarati","Spanish",0.64,0.36
+2,"Mount Olive-Silverstone-Jamestown","Punjabi","Gujarati","Assyrian Languages",0.55,0.45
+3,"Thistletown-Beaumond Heights","Punjabi","Spanish","Gujarati",0.64,0.36
+4,"Rexdale-Kipling","Spanish","Italian","Croatian",0.75,0.25
+5,"Elms-Old Rexdale","Spanish","Somali","Italian",0.73,0.27
+6,"Kingsview Village-The Westway","Somali","Urdu","Spanish",0.67,0.33
+7,"Willowridge-Martingrove-Richview","Italian","Spanish","Urdu",0.77,0.23
+8,"Humber Heights-Westmount","Ukrainian","Spanish","Italian",0.7,0.3
+9,"Edenbridge-Humber Valley","Ukrainian","Spanish","Italian",0.82,0.18
+10,"Princess-Rosethorn","Korean","Serbian","Mandarin",0.86,0.14
+11,"Eringate-Centennial-West Deane","Ukrainian","Polish","Serbian",0.75,0.24
+12,"Markland Wood","Serbian","Ukrainian","Polish",0.78,0.22
+13,"Etobicoke West Mall","Serbian","Spanish","Ukrainian",0.68,0.32
+14,"Islington-City Centre West","Korean","Ukrainian","Spanish",0.73,0.27
+15,"Kingsway South","Ukrainian","Polish","Portuguese",0.94,0.06
+16,"Stonegate-Queensway","Ukrainian","Polish","Russian",0.81,0.19
+17,"Mimico (includes Humber Bay Shores)","Polish","Spanish","Russian",0.81,0.19
+18,"New Toronto","Polish","Tagalog","Spanish",0.84,0.16
+19,"Long Branch","Polish","Ukrainian","Tagalog",0.84,0.16
+20,"Alderwood","Polish","Italian","Ukrainian",0.82,0.18
+21,"Humber Summit","Italian","Urdu","Punjabi",0.55,0.45
+22,"Humbermede","Spanish","Urdu","Italian",0.59,0.42
+23,"Pelmo Park-Humberlea","Italian","Spanish","Vietnamese",0.73,0.27
+24,"Black Creek","Vietnamese","Spanish","Assyrian Languages",0.62,0.38
+25,"Glenfield-Jane Heights","Vietnamese","Spanish","Italian",0.62,0.38
+26,"Downsview-Roding-CFB","Italian","Spanish","Tagalog",0.65,0.35
+27,"York University Heights","Italian","Spanish","Tagalog",0.62,0.38
+28,"Rustic","Italian","Spanish","Somali",0.69,0.31
+29,"Maple Leaf","Italian","Tagalog","Spanish",0.63,0.37
+30,"Brookhaven-Amesbury","Spanish","Portuguese","Vietnamese",0.66,0.34
+31,"Yorkdale-Glen Park","Italian","Portuguese","Spanish",0.67,0.33
+32,"Englemount-Lawrence","Tagalog","Russian","Spanish",0.79,0.21
+33,"Clanton Park","Tagalog","Russian","Italian",0.76,0.24
+34,"Bathurst Manor","Russian","Tagalog","Italian",0.68,0.32
+35,"Westminster-Branson","Russian","Tagalog","Korean",0.49,0.51
+36,"Newtonbrook West","Russian","Tagalog","Korean",0.49,0.52
+37,"Willowdale West","Mandarin","Persian","Korean",0.56,0.43
+38,"Lansing-Westgate","Persian","Korean","Mandarin",0.73,0.27
+39,"Bedford Park-Nortown","Tagalog","Persian","Mandarin",0.9,0.1
+40,"St.Andrew-Windfields","Mandarin","Persian","Cantonese",0.7,0.3
+41,"Bridle Path-Sunnybrook-York Mills","Mandarin","Persian","Cantonese",0.84,0.16
+42,"Banbury-Don Mills","Mandarin","Cantonese","Persian",0.75,0.25
+43,"Victoria Village","Arabic","Tagalog","Greek",0.7,0.3
+44,"Flemingdon Park","Urdu","Persian","Gujarati",0.5,0.5
+45,"Parkwoods-Donalda","Mandarin","Persian","Arabic",0.72,0.28
+46,"Pleasant View","Mandarin","Cantonese","Greek",0.51,0.49
+47,"Don Valley Village","Mandarin","Persian","Cantonese",0.51,0.49
+48,"Hillcrest Village","Mandarin","Cantonese","Persian",0.48,0.52
+49,"Bayview Woods-Steeles","Mandarin","Cantonese","Persian",0.57,0.43
+50,"Newtonbrook East","Persian","Mandarin","Korean",0.46,0.54
+51,"Willowdale East","Mandarin","Persian","Korean",0.49,0.51
+52,"Bayview Village","Mandarin","Persian","Cantonese",0.57,0.43
+53,"Henry Farm","Mandarin","Persian","Arabic",0.54,0.46
+54,"O'Connor-Parkview","Greek","Tagalog","Bengali",0.81,0.19
+55,"Thorncliffe Park","Urdu","Pashto","Persian",0.43,0.57
+56,"Leaside-Bennington","Spanish","Persian","Mandarin",0.95,0.05
+57,"Broadview North","Greek","Serbian","Albanian",0.78,0.22
+58,"Old East York","Greek","Cantonese","Tagalog",0.84,0.16
+59,"Danforth-East York","Greek","Cantonese","Italian",0.82,0.18
+60,"Woodbine-Lumsden","Cantonese","Greek","Mandarin",0.86,0.14
+61,"Taylor-Massey","Bengali","Urdu","Cantonese",0.6,0.4
+62,"East End-Danforth","Bengali","Cantonese","Urdu",0.89,0.11
+63,"The Beaches","Spanish","Mandarin","German",0.97,0.03
+64,"Woodbine Corridor","Cantonese","Mandarin","Spanish",0.91,0.09
+65,"Greenwood-Coxwell","Cantonese","Urdu","Mandarin",0.83,0.16
+66,"Danforth","Greek","Cantonese","Italian",0.83,0.17
+67,"Playter Estates-Danforth","Greek","Cantonese","Spanish",0.91,0.09
+68,"North Riverdale","Cantonese","Mandarin","Greek",0.9,0.1
+69,"Blake-Jones","Cantonese","Gujarati","Greek",0.81,0.19
+70,"South Riverdale","Cantonese","Mandarin","Vietnamese",0.81,0.19
+71,"Cabbagetown-South St. James Town","Cantonese","Tagalog","Mandarin",0.9,0.1
+72,"Regent Park","Bengali","Mandarin","Tamil",0.65,0.35
+73,"Moss Park","Mandarin","Cantonese","Spanish",0.86,0.14
+74,"North St. James Town","Tagalog","Tamil","Nepali",0.67,0.33
+75,"Church-Yonge Corridor","Mandarin","Cantonese","Korean",0.84,0.16
+76,"Bay Street Corridor","Mandarin","Korean","Arabic",0.68,0.32
+77,"Waterfront Communities-The Island","Mandarin","Cantonese","Spanish",0.87,0.13
+78,"Kensington-Chinatown","Mandarin","Cantonese","Vietnamese",0.66,0.34
+79,"University","Mandarin","Portuguese","Cantonese",0.84,0.16
+80,"Palmerston-Little Italy","Portuguese","Cantonese","Italian",0.84,0.16
+81,"Trinity-Bellwoods","Portuguese","Mandarin","Cantonese",0.73,0.27
+82,"Niagara","Spanish","Mandarin","Portuguese",0.9,0.1
+83,"Dufferin Grove","Portuguese","Spanish","Cantonese",0.76,0.24
+84,"Little Portugal","Portuguese","Cantonese","Mandarin",0.81,0.19
+85,"South Parkdale","Tibetan","Tagalog","Polish",0.76,0.24
+86,"Roncesvalles","Polish","Hungarian","Tibetan",0.85,0.15
+87,"High Park-Swansea","Polish","Serbian","Ukrainian",0.89,0.11
+88,"High Park North","Russian","Polish","Spanish",0.83,0.17
+89,"Runnymede-Bloor West Village","Ukrainian","Greek","Polish",0.92,0.08
+90,"Junction Area","Portuguese","Vietnamese","Spanish",0.84,0.16
+91,"Weston-Pellam Park","Portuguese","Spanish","Vietnamese",0.68,0.32
+92,"Corso Italia-Davenport","Portuguese","Italian","Spanish",0.69,0.31
+93,"Dovercourt-Wallace Emerson-Junction","Portuguese","Cantonese","Spanish",0.74,0.26
+94,"Wychwood","Portuguese","Cantonese","Greek",0.82,0.18
+95,"Annex","Mandarin","Cantonese","Korean",0.9,0.1
+96,"Casa Loma","Spanish","Mandarin","Cantonese",0.93,0.07
+97,"Yonge-St.Clair","Spanish","Persian","Russian",0.92,0.08
+98,"Rosedale-Moore Park","Mandarin","Spanish","Persian",0.93,0.07
+99,"Mount Pleasant East","Spanish","Persian","Serbian",0.91,0.09
+100,"Yonge-Eglinton","Spanish","Mandarin","Korean",0.91,0.09
+101,"Forest Hill South","Mandarin","Spanish","Tagalog",0.92,0.07
+102,"Forest Hill North","Tagalog","Russian","Spanish",0.81,0.19
+103,"Lawrence Park South","Mandarin","Persian","Russian",0.93,0.07
+104,"Mount Pleasant West","Persian","Spanish","Korean",0.82,0.18
+105,"Lawrence Park North","Mandarin","Persian","Spanish",0.93,0.07
+106,"Humewood-Cedarvale","Tagalog","Spanish","Portuguese",0.87,0.13
+107,"Oakwood Village","Portuguese","Spanish","Italian",0.72,0.28
+108,"Briar Hill - Belgravia","Tagalog","Portuguese","Spanish",0.63,0.37
+109,"Caledonia-Fairbank","Portuguese","Spanish","Italian",0.62,0.38
+110,"Keelesdale-Eglinton West","Portuguese","Spanish","Italian",0.59,0.41
+111,"Rockcliffe-Smythe","Portuguese","Spanish","Vietnamese",0.68,0.32
+112,"Beechborough-Greenbrook","Portuguese","Spanish","Italian",0.74,0.26
+113,"Weston","Spanish","Somali","Portuguese",0.76,0.24
+114,"Lambton Baby Point","Ukrainian","Spanish","Polish",0.87,0.13
+115,"Mount Dennis","Spanish","Portuguese","Vietnamese",0.7,0.3
+116,"Steeles","Cantonese","Mandarin","Arabic",0.32,0.68
+117,"L'Amoreaux","Mandarin","Cantonese","Tamil",0.47,0.53
+118,"Tam O'Shanter-Sullivan","Mandarin","Cantonese","Tamil",0.54,0.46
+119,"Wexford/Maryvale","Tagalog","Tamil","Mandarin",0.71,0.29
+120,"Clairlea-Birchmount","Bengali","Tagalog","Mandarin",0.69,0.31
+121,"Oakridge","Bengali","Cantonese","Urdu",0.6,0.4
+122,"Birchcliffe-Cliffside","Bengali","Cantonese","Tagalog",0.91,0.09
+123,"Cliffcrest","Bengali","Tamil","Mandarin",0.82,0.18
+124,"Kennedy Park","Bengali","Tagalog","Tamil",0.67,0.33
+125,"Ionview","Tamil","Tagalog","Bengali",0.67,0.33
+126,"Dorset Park","Tamil","Tagalog","Cantonese",0.6,0.4
+127,"Bendale","Mandarin","Tamil","Cantonese",0.61,0.39
+128,"Agincourt South-Malvern West","Cantonese","Mandarin","Tamil",0.47,0.53
+129,"Agincourt North","Cantonese","Mandarin","Tamil",0.38,0.62
+130,"Milliken","Cantonese","Mandarin","Tamil",0.32,0.68
+131,"Rouge","Tamil","Tagalog","Urdu",0.71,0.29
+132,"Malvern","Tamil","Cantonese","Tagalog",0.65,0.35
+133,"Centennial Scarborough","Tamil","Tagalog","Bengali",0.87,0.13
+134,"Highland Creek","Tamil","Cantonese","Mandarin",0.74,0.26
+135,"Morningside","Tamil","Tagalog","Urdu",0.73,0.27
+136,"West Hill","Tamil","Tagalog","Bengali",0.8,0.2
+137,"Woburn","Gujarati","Tamil","Urdu",0.62,0.38
+138,"Eglinton East","Tamil","Tagalog","Bengali",0.68,0.32
+139,"Scarborough Village","Tamil","Urdu","Bengali",0.69,0.31
+140,"Guildwood","Bengali","Tagalog","Romanian",0.9,0.1
